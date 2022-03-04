@@ -1,2 +1,2 @@
 # chainlink_dev
-chainlink hybrid smart contracts
+chainlink enabled hybrid smart contracts learning and projects
